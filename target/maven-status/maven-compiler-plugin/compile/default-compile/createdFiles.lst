@@ -1,0 +1,6 @@
+com\proj\controller\CourseController.class
+com\proj\entity\Course.class
+com\proj\config\MyWebAppInitialiser.class
+com\proj\service\CourseService.class
+com\proj\dao\CourseDao.class
+com\proj\config\AppConfig.class
